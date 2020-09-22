@@ -1,0 +1,154 @@
+body{
+    font-family: 'Montserrat' ;
+}
+
+#title{
+    background-color:#ff4c68;
+    color:white;
+}
+
+#features{
+    padding-top: 5%;
+    text-align:center;
+}
+
+.h1{
+    font-family: 'Montserrat';
+    font-size: 4rem;
+    line-height: 1.5;
+    font-weight:bolder;
+}
+
+h3{
+    font-family: 'Montserrat' ;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.cf-1{
+    padding-top: 50px;
+}
+
+.navbar{
+    padding-left:0;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2rem;
+    line-height: 1.5;
+    font-weight: 10px;
+    margin-left:0;
+}
+
+.nav-item{
+    font-size:1.2rem ;
+    
+    padding: 0 16px;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.btn-primary{
+    font-family: 'Montserrat';
+    font-weight: 20;
+}
+
+.feature-icons{
+color:#ef8172;
+font-size: 4rem;
+padding-bottom: 3%;
+}
+
+.feature{
+    padding-bottom:10%;
+    
+    
+}
+
+.download-icons{
+    padding-right: 6px;
+   
+}
+
+.download-button{
+    margin-top: 20%;
+    margin-right:5%;
+}
+
+.iphone{
+    transform: rotate(25deg);
+    width: 60%;
+}
+
+@media only screen and (max-width: 1000px)
+{
+    .iphone{
+        padding-top: 100px;
+        margin-left: 80px;  
+    }
+
+    .cf-1{
+        text-align:center;
+    }
+
+    h2{
+        font-size: 1.2rem;
+    }
+}
+
+.feature-icons:hover{
+    color: brown;
+}
+
+p{
+    color: #8f8f8f;
+    width: 50%;
+    margin:0 auto;
+}
+
+
+
+/* Testimonials Section */
+#testimonials{
+    background-color:#ef8172 ;
+    text-align: center;
+    padding: 7% 15%;
+    color: #fff;
+}
+
+h2{
+    font-family: 'Montserrat';
+    font-size: 2.5rem;
+    line-height: 1.5;
+    font-weight:bolder;
+}
+
+.testimonial-img{
+    width:23%;
+    border-radius: 50%;
+    margin-top: 5%;
+    padding-right:2%;
+}
+
+.carousel-inner{
+padding: 7% 15%;
+}
+
+
+/* Press Section */
+#press{
+    background-color:#ef8172 ;
+    padding: 5% 5%;
+    text-align: center;
+}
+
+    width:15%;
+}
+
+
+.carousel-control-prev{
+    margin-left:1%;
+}
