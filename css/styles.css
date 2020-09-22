@@ -83,7 +83,7 @@ padding-bottom: 3%;
     width: 60%;
 }
 
-@media only screen and (max-width: 1000px)
+/* @media only screen and (max-width: 1000px)
 {
     .iphone{
         padding-top: 100px;
@@ -97,7 +97,7 @@ padding-bottom: 3%;
     h2{
         font-size: 1.2rem;
     }
-}
+} */
 
 .feature-icons:hover{
     color: brown;
