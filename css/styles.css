@@ -30,6 +30,7 @@ body {
 .h1 {
     font-size: 4rem;
     line-height: 1.5; 
+    text-align: left;
 }
 
 h3 {
@@ -115,7 +116,7 @@ h3,.h1,h3{
 /* Testimonials Section */
 #testimonials {
     background-color: #ef8172;
-    padding: 7% 15%;
+    padding: 4% 15%;
     color: #fff;
     z-index: 1;
     position: relative;
@@ -186,7 +187,7 @@ p {
 }
 
 .download-icons-footer:hover{
-    color: aqua;
+    color:#ff4c68;
 }
 
 
