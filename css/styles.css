@@ -33,6 +33,11 @@ body {
     text-align: left;
 }
 
+.h1-cta{
+    text-align: center;  
+    font-size: 3rem;
+}
+
 h3 {
     font-size: 1.5rem; 
 }
