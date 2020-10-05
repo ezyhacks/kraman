@@ -35,7 +35,7 @@ body {
 
 .h1-cta{
     text-align: center;  
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 h3 {
@@ -174,7 +174,7 @@ p {
 #cta{
     background-color:#ff4c68 ;
     color: #fff;
-    padding: 10% 0;
+    padding: 4% 0;
 }
 
 .bottom-buttons{
@@ -224,8 +224,9 @@ p {
 
     .price-p {
         width: 100%;
-
     }
+
+    
 }
 
 
@@ -233,7 +234,12 @@ p {
 
     .iphone {
         padding-top: 40px;
-        transform: rotate(0deg);
+        
+    }
+
+    .h1-cta{
+        text-align: center;  
+        font-size: 1.5rem;
     }
 }
 
